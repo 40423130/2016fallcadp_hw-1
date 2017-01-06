@@ -73,7 +73,7 @@
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/196055295"&gt;2016 12 17 12 58 04 557&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 W13作業1</title><link href="./40423131-w13zuo-ye-1.html" rel="alternate"></link><updated>2016-12-01T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-12-01:./40423131-w13zuo-ye-1.html</id><summary type="html">&lt;p&gt;40423131 W13作業
 &lt;/p&gt;
-&lt;h2&gt;Solvespace&lt;/h2&gt;
+&lt;h2&gt;Solvespace系列&lt;/h2&gt;
 &lt;h3&gt;1. Parts (零件繪製)&lt;/h3&gt;
 &lt;p&gt;範例檔案: &lt;a href="http://solvespace.com/bracket.pl"&gt;http://solvespace.com/bracket.pl&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;An introductory tutorial is available, in which we draw the same part that is shown in the demo video. &lt;/p&gt;
@@ -88,38 +88,17 @@
 &lt;h4&gt;Extrude (平行長出或除料)&lt;/h4&gt;
 &lt;p&gt;&lt;p&gt;STL 格式&lt;/p&gt;
 &lt;p&gt;範例:平行長出&lt;/p&gt;
-&lt;iframe src="./../data/threejs/4042310511241.html" width="800" height="600"&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/threejs/01.html" width="400" height="300"&gt;&lt;/iframe&gt;
 &lt;p&gt;STL 格式&lt;/p&gt;
 &lt;p&gt;範例:除料&lt;/p&gt;
-&lt;iframe src="./../data/threejs/4042310511243.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="./../data/threejs/02.html" width="400" height="300"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h4&gt;Lathe (旋轉繞行長出或除料)&lt;/h4&gt;
-&lt;h4&gt;Export Triangle Mesh&lt;/h4&gt;
-&lt;p&gt;STL 格式&lt;/p&gt;
-&lt;p&gt;three.js&lt;/p&gt;
-&lt;iframe src="./../data/threejs/20161201.html" width="800" height="600"&gt;&lt;/iframe&gt;
-
-&lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
-&lt;iframe src="./../data/threejs/404231051125.html" width="800" height="600"&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/193061660" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/193061660"&gt;2016 11 25 22 30 17 286&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h3&gt;
-&lt;p&gt;&lt;img src="./../w7/404231051126.png" width="800"&gt;
-&lt;img src="./../w7/404231051126-1.png" width="800"&gt;
-&lt;img src="./../w7/404231051126-2.png" width="800"&gt;
-&lt;img src="./../w7/404231051126-3.png" width="800"&gt;&lt;/p&gt;
-&lt;h3&gt;4. Compiled &amp;amp; API (編譯與延伸應用)&lt;/h3&gt;
-&lt;p&gt;&lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
-&lt;img src="./../w7/40423105-4.png" width="800"&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 W13作業2</title><link href="./40423131-w13zuo-ye-2.html" rel="alternate"></link><updated>2016-12-01T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-12-01:./40423131-w13zuo-ye-2.html</id><summary type="html">&lt;p&gt;40423131 W13作業&lt;/p&gt;
-
-
-&lt;h2&gt;Solvespace 組合圖&lt;/h2&gt;
-&lt;p&gt;&lt;iframe src="./../w7/404231051201.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 四連桿機構</title><link href="./40423131-si-lian-gan-ji-gou.html" rel="alternate"></link><updated>2016-11-17T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-11-17:./40423131-si-lian-gan-ji-gou.html</id><summary type="html">&lt;p&gt;40423131 W7作業&lt;/p&gt;
-
-
-&lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
+&lt;p&gt;&lt;p&gt;STL 格式&lt;/p&gt;
+&lt;p&gt;範例:旋轉繞行長出&lt;/p&gt;
+&lt;iframe src="./../data/threejs/03.html" width="400" height="300"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;2. Assembly (零件組合)&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="./../data/threejs/04.html" width="400" height="300"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;3. Solvespace四連桿與多連桿運動模擬&lt;/h3&gt;
 &lt;p&gt;&lt;img src="./../31/555-1.JPG" width="800"&gt;&lt;/p&gt;
 &lt;p&gt;Solvespace 影片&lt;/p&gt;
 
@@ -129,7 +108,17 @@
 
 &lt;p&gt;將所得到的點座標的.csv以Excel的畫圖，得到：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="./../31/CSV.JPG" width="800"&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 W4作業</title><link href="./40423131-w4zuo-ye.html" rel="alternate"></link><updated>2016-10-06T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-10-06:./40423131-w4zuo-ye.html</id><summary type="html">&lt;p&gt;40423131 W4作業&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../31/CSV.JPG" width="800"&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 W13作業2</title><link href="./40423131-w13zuo-ye-2.html" rel="alternate"></link><updated>2016-12-01T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-12-01:./40423131-w13zuo-ye-2.html</id><summary type="html">&lt;p&gt;40423131 W13作業&lt;/p&gt;
+
+
+&lt;p&gt;Solvespace 組合圖
+&lt;iframe src="./../31/01.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 四連桿機構</title><link href="./40423131-si-lian-gan-ji-gou.html" rel="alternate"></link><updated>2016-11-17T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-11-17:./40423131-si-lian-gan-ji-gou.html</id><summary type="html">&lt;p&gt;40423131 W7作業&lt;/p&gt;
+
+
+&lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../w7/1117.png" width="800"&gt;
+&lt;p&gt;將所得到的點座標的.csv以Excel的畫圖，得到：&lt;/p&gt;
+&lt;img src="./../w7/1117 csv.png" width="800"&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423131 W4作業</title><link href="./40423131-w4zuo-ye.html" rel="alternate"></link><updated>2016-10-06T11:00:00+08:00</updated><author><name>40423131</name></author><id>tag:,2016-10-06:./40423131-w4zuo-ye.html</id><summary type="html">&lt;p&gt;40423131 W4作業&lt;/p&gt;
 
 
 &lt;iframe src="https://player.vimeo.com/video/185029053" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
